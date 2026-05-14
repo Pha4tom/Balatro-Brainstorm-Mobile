@@ -16,12 +16,12 @@ which cannot run on mobile. This mod bypasses that entirely with pure Lua seed s
 /data/data/systems.shorty.lmm.balatro/files/save/ASET/Mods/
 **iOS:**
 
-
 ## Features
 
 ### Auto Reroll Button
 - Appears in the pause menu and game over screen
 - Searches seeds using your Brainstorm tag settings (Charm Tag, Economy Tag, etc)
+- Soul card search support via Brainstorm's soul search setting
 - Pack search support
 - Pure Lua implementation — no Immolate needed, works fully on mobile
 
@@ -39,5 +39,5 @@ which cannot run on mobile. This mod bypasses that entirely with pure Lua seed s
 - [Restart Run Button](https://thunderstore.io/c/balatro/p/ScrimpScrampi/Restart_Run_Button/) by ScrimpScrampi — original restart run concept
 - Pha4tom — mobile adaptation and Auto Reroll button implementation
 
-## Contact Me
-Discord:Mojhamed
+## Contact
+Discord: @mojhamed
