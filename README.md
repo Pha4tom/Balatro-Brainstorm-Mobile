@@ -40,3 +40,5 @@ which cannot run on mobile. This mod bypasses that entirely with pure Lua seed s
 - [Restart Run Button](https://thunderstore.io/c/balatro/p/ScrimpScrampi/Restart_Run_Button/) by ScrimpScrampi — original restart run concept
 - Pha4tom — mobile adaptation and Auto Reroll button implementation
 
+## Contact Me
+Discord:Mojhamed
