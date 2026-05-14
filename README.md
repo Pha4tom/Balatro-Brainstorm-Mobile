@@ -7,6 +7,7 @@ which cannot run on mobile. This mod bypasses that entirely with pure Lua seed s
 ## Requirements
 - [Steamodded](https://github.com/Steamodded/smods)
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm)
+- use the mac/dev version for brainstorm(press on the green button called code and press in download zip)
 
 ## Installation
 1. Download or clone this repo
