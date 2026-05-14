@@ -22,7 +22,6 @@ which cannot run on mobile. This mod bypasses that entirely with pure Lua seed s
 ### Auto Reroll Button
 - Appears in the pause menu and game over screen
 - Searches seeds using your Brainstorm tag settings (Charm Tag, Economy Tag, etc)
-- Soul card search support via Brainstorm's soul search setting
 - Pack search support
 - Pure Lua implementation — no Immolate needed, works fully on mobile
 
